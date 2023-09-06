@@ -1,0 +1,31 @@
+
+
+.main {
+  display: flex;
+  height: 100vh;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 100vh;
+  background-color: #1008B4;
+}
+
+.body {
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #1008B4;
+}
+
+.body p {
+  background-color: #1008B4;
+  font-size: 3vw;
+  margin: 0px;
+  margin-right: 1.5vw;
+  font-weight: 700;
+  color: #F4C3B9;
+}
+
+.body span {
+  background-color: #1008B4;
+  opacity: 0.2;
+}
